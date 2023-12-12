@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"Terminus",
+		"Theme - Afterglow",
+	],
+	"in_process_packages":
+	[
+	],
+}

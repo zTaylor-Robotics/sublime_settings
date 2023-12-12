@@ -1,0 +1,1772 @@
+{
+	"file_history":
+	[
+		"/C/Users/z.taylor/Documents/PDM EDITS.txt",
+		"/C/prorepo/HIWIN/HADES/build/Win32/CMakeLists.txt",
+		"/C/hprorepo/multi_enc_test/CMakeLists.txt",
+		"/C/hprorepo/multi_enc_test/main.cpp",
+		"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/Part.txt",
+		"/C/Users/z.taylor/Documents/Temp.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa3316.9679/KeyenceRobotVisionSetup.txt",
+		"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/homing routine.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa29764.31339/README.md",
+		"/C/Program Files (x86)/HIWIN/iA_Studio/HIMC_API.h",
+		"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt.user",
+		"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+		"/C/hprorepo/bsemt/Installer/config/config.xml",
+		"/C/hprorepo/SSTFProg/README.txt",
+		"/C/hprorepo/bsemt/README.md",
+		"/C/hprorepo/intProg/Installer/config/config.xml",
+		"/C/hprorepo/SSTFProg/SSTFProg/sstfmainwindow.cpp",
+		"/C/hprorepo/bsemt/.git/COMMIT_EDITMSG",
+		"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+		"/C/hprorepo/intProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+		"/C/Users/z.taylor/Documents/temp.cpp",
+		"/C/hprorepo/SSTFProg/DriveExample/include/Axis.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExampleDlg.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+		"/C/hprorepo/SSTFProg/DriveExample/main.cpp",
+		"/C/hprorepo/SSTFProg/DriveExample/include/mpint.h",
+		"/C/hprorepo/SSTFProg/DriveExample/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/DriveExample/build/Debug/DriveExample.pdb",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/targetver.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/resource.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.cpp",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.cpp",
+		"/C/hprorepo/SSTFProg/Serial/main.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/include/mpint.h",
+		"/C/hprorepo/SSTFProg/Serial/E201Serial.cpp",
+		"/C/hprorepo/SSTFProg/Serial/E201Serial.h",
+		"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (6).7z",
+		"/C/hprorepo/SSTFProg/SSTFProg/E201Serial.h",
+		"/C/hprorepo/SSTFProg/Functions/get_com_ports_names.cpp",
+		"/C/hprorepo/SSTFProg/Functions/get_com_ports.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt.user",
+		"/C/hprorepo/SSTFProg/Installer/config/config.xml",
+		"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+		"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (5)/MPI_Examples_for_E1_Series_Servo_Drive/examples/MPI_EncoderDemo/MPI_EncoderDemo/MPI_EncoderDemo.vcxproj.user",
+		"/C/prorepo/CMAKE_PRACTICE/MLOProg/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/Serial/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/Serial/serial_collection.cpp",
+		"/C/hprorepo/SSTFProg/Serial/drivers/readme.txt",
+		"/C/hprorepo/SSTFProg/Serial/drivers/version.txt",
+		"/C/hprorepo/SSTFProg/Serial/drivers/something.cpp",
+		"/C/hprorepo/SSTFProg/Serial/SSTFSerial.h",
+		"/C/hprorepo/SSTFProg/Serial/SSTFSerial.cpp",
+		"/C/Users/z.taylor/Downloads/Serial/Debug/SerialTest.pdb",
+		"/C/Users/z.taylor/Downloads/Serial/SerialTest/ReadMe.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa43736.49081/Serial.cpp",
+		"/C/hprorepo/SSTFProg/Serial/SimpleSerial.cpp",
+		"/C/hprorepo/SSTFProg/Serial/syntax_type.txt",
+		"/C/hprorepo/SSTFProg/Serial/SimpleSerial.h",
+		"/C/hprorepo/SSTFProg/Serial/syntax_type.txt.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.18853/readme.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.21585/version.txt",
+		"/C/hprorepo/SSTFProg/Serial/SerialPort.h",
+		"/C/hprorepo/SSTFProg/Serial/SerialPort.cpp",
+		"/C/prorepo/HIWIN/HADES/main.cpp",
+		"/C/Users/z.taylor/Desktop/encoderTest.cpp",
+		"/C/hprorepo/SSTFProg/test.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/resources.qrc",
+		"/C/hprorepo/SSTFProg/SSTFProg/images.qrc",
+		"/C/Program Files (x86)/HIWIN/iA Studio 2.0.1/documents/Software Guides/API_examples/cpp/src/api_example.cpp",
+		"/C/prorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+		"/C/prorepo/HIWIN/HADES/README.md",
+		"/C/prorepo/HIWIN/devenv_tmplt/main.cpp",
+		"/C/prorepo/HIWIN/devenv_tmplt/README.md",
+		"/C/prorepo/HIWIN/hapitest/include/HIMC_API.h",
+		"/C/prorepo/HIWIN/dev_environment/build/x64/CMakeLists.txt",
+		"/C/prorepo/HIWIN/devenv_tmplt/build/Win32/CMakeLists.txt",
+		"/C/prorepo/HIWIN/dev_environment/main.cpp",
+		"/C/prorepo/HIWIN/dev_environment/build/Win32/CMakeLists.txt",
+		"/C/prorepo/HIWIN/dev_environment/build/Debug/hapitest.pdb",
+		"/C/prorepo/HIWIN/hapitest/main.cpp",
+		"/C/prorepo/HIWIN/dev_environment/main - Copy.cpp",
+		"/C/prorepo/HIWIN/dev_environment/build/x64/build",
+		"/C/prorepo/HIWIN/hapitest/CMakeLists.txt",
+		"/C/prorepo/HIWIN/dev_environment/CMakeLists.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa26144.11863/README.rst",
+		"/C/prorepo/HIWIN/hapitest/build/Makefile",
+		"/S/Erik Cleveland/blah/blah.txt",
+		"/C/prorepo/HIWIN/NIU Demo/main.cpp",
+		"/C/prorepo/HIWIN/NIU Demo/CMakeLists.txt",
+		"/C/prorepo/HIWIN/NIU Demo/lib/HIMC_API.h",
+		"/C/prorepo/HIWIN/NIU Demo/stuff/HIMC_API.h",
+		"/C/prorepo/CMAKE_PRACTICE/MLOProg/main.cpp",
+		"/C/prorepo/HIWIN/NIU Demo/lib/CMakeLists.txt",
+		"/C/prorepo/HIWIN/NIU Demo/lib/HIMC_API.lib",
+		"/C/prorepo/HIWIN/NIU Demo/stuff/CMakeLists.txt",
+		"/S/HAAS VF2/Posts/Haas TurnMill 2.cnc",
+		"/S/HAAS VF2/Posts/Generic Haas ST 4X MT_Lathe.cnc",
+		"/S/Zachary Taylor/Haas TurnMill 2 -zEdit1.TXT",
+		"/C/Users/z.taylor/Documents/hours.cpp",
+		"/C/prorepo/CMAKE_PRACTICE/MLOProg/adder/adder.h",
+		"/S/HAAS VF2/Posts/Haas TurnMill with Y.cnc",
+		"/S/HAAS VF2/Posts/Haas TurnMill 2 - BACK UP 2.cnc",
+		"/S/HAAS VF2/Posts/Haas TurnMill 2 - BACK UP 1.cnc",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/readme.md",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/external/glfw/examples/gears.c",
+		"/C/prorepo/CMAKE_PRACTICE/VSCProg/main.cpp",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/CMakeLists.txt",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/main.cpp",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/out/build/external/glfw/Makefile",
+		"/C/prorepo/CMAKE_PRACTICE/VSCProg/testConfig.h.in",
+		"/C/prorepo/CMAKE_PRACTICE/VSCProg/CMakeLists.txt",
+		"/S/HAAS VF2/Posts/Haas ST MILL TURN.cnc",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/out/build/Makefile",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/.gitignore",
+		"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/CMakeLists.txt",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/adder/CMakeLists.txt",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/out/main.cpp",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/run.bat",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/configure.bat",
+		"/C/prorepo/CMAKE_PRACTICE/SMProg/build.bat",
+		"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/CMakeLists.txt",
+		"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/main.cpp",
+		"/C/prorepo/CMAKE_PRACTICE/LProgTest/CMakeLists.txt",
+		"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/adder.cpp"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4152,
+	"last_window_id": 22,
+	"log_indexing": false,
+	"next_update_check": 1700335140,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 670.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			489.0,
+			98.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tem",
+						"template"
+					],
+					[
+						"ma",
+						"main\tmain()"
+					],
+					[
+						"count",
+						"countSubStringMatchRecursive"
+					],
+					[
+						"NUM",
+						"NUM_SPIDERLEGS"
+					],
+					[
+						"c2",
+						"c2Flag"
+					],
+					[
+						"Num",
+						"NUM_PIGLEGS"
+					],
+					[
+						"NU",
+						"NUM_PIGLEGS"
+					],
+					[
+						"updat",
+						"update_handler"
+					],
+					[
+						"grd",
+						"grid_columnconfigure"
+					],
+					[
+						"item",
+						"itemconfig"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Build & Run"
+						]
+					],
+					[
+						"Packages/Rust/Rust.sublime-build",
+						"Build & Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package en",
+						"Package Control: Enable Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"Prefer",
+						"Preferences: Settings"
+					],
+					[
+						"font",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"lsp enabel",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"LSP",
+						"LSP: Goto Symbol In Project"
+					],
+					[
+						"Package Control: INsta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/hitapi.py",
+				"/C/hprorepo/bsemt/SSTFProg/main.cpp",
+				"/C/hprorepo/AngularTest/my-app/README.md",
+				"/C/Users/z.taylor/Desktop/CurrentToDo.txt",
+				"/C/hprorepo/bsemt/.gitignore",
+				"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/Hiwin Interferometer Test.py",
+				"/C/Users/z.taylor/Documents/PDM EDITS.txt",
+				"/C/prorepo/HIWIN/HADES/build/Win32/CMakeLists.txt",
+				"/C/hprorepo/multi_enc_test/CMakeLists.txt",
+				"/C/hprorepo/multi_enc_test/main.cpp",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/Part.txt",
+				"/C/Users/z.taylor/Documents/Temp.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa3316.9679/KeyenceRobotVisionSetup.txt",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/homing routine.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa29764.31339/README.md",
+				"/C/Program Files (x86)/HIWIN/iA_Studio/HIMC_API.h",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt.user",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/hprorepo/bsemt/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/README.txt",
+				"/C/hprorepo/bsemt/README.md",
+				"/C/hprorepo/intProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/SSTFProg/sstfmainwindow.cpp",
+				"/C/hprorepo/bsemt/.git/COMMIT_EDITMSG",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/intProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/include/Axis.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExampleDlg.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/main.cpp",
+				"/C/hprorepo/SSTFProg/DriveExample/include/mpint.h",
+				"/C/hprorepo/SSTFProg/DriveExample/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/DriveExample/build/Debug/DriveExample.pdb",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/targetver.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/resource.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.cpp",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.cpp",
+				"/C/hprorepo/SSTFProg/Serial/main.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/mpint.h",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.h",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (6).7z",
+				"/C/hprorepo/SSTFProg/SSTFProg/E201Serial.h",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports_names.cpp",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt.user",
+				"/C/hprorepo/SSTFProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (5)/MPI_Examples_for_E1_Series_Servo_Drive/examples/MPI_EncoderDemo/MPI_EncoderDemo/MPI_EncoderDemo.vcxproj.user",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/serial_collection.cpp",
+				"/C/hprorepo/SSTFProg/Serial/drivers/readme.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/something.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.cpp",
+				"/C/Users/z.taylor/Downloads/Serial/Debug/SerialTest.pdb",
+				"/C/Users/z.taylor/Downloads/Serial/SerialTest/ReadMe.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa43736.49081/Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.18853/readme.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.21585/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.h",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.cpp",
+				"/C/prorepo/HIWIN/HADES/main.cpp",
+				"/C/Users/z.taylor/Desktop/encoderTest.cpp",
+				"/C/hprorepo/SSTFProg/test.cpp",
+				"/C/Program Files (x86)/HIWIN/iA Studio 2.0.1/documents/Software Guides/API_examples/cpp/src/api_example.cpp",
+				"/C/prorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/HADES/README.md",
+				"/C/prorepo/HIWIN/devenv_tmplt/main.cpp",
+				"/C/prorepo/HIWIN/devenv_tmplt/README.md",
+				"/C/prorepo/HIWIN/hapitest/include/HIMC_API.h",
+				"/C/prorepo/HIWIN/dev_environment/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/devenv_tmplt/build/Win32/CMakeLists.txt",
+				"/C/prorepo/HIWIN/dev_environment/main.cpp",
+				"/C/prorepo/HIWIN/dev_environment/build/Win32/CMakeLists.txt",
+				"/C/prorepo/HIWIN/hapitest/main.cpp",
+				"/C/prorepo/HIWIN/dev_environment/main - Copy.cpp",
+				"/C/prorepo/HIWIN/dev_environment/build/x64/build",
+				"/C/prorepo/HIWIN/hapitest/CMakeLists.txt",
+				"/C/prorepo/HIWIN/dev_environment/CMakeLists.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa26144.11863/README.rst",
+				"/C/prorepo/HIWIN/hapitest/build/Makefile",
+				"/S/Erik Cleveland/blah/blah.txt",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/main.cpp",
+				"/S/HAAS VF2/Posts/Haas TurnMill 2.cnc",
+				"/S/HAAS VF2/Posts/Generic Haas ST 4X MT_Lathe.cnc",
+				"/S/Zachary Taylor/Haas TurnMill 2 -zEdit1.TXT",
+				"/C/Users/z.taylor/Documents/hours.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/adder/adder.h",
+				"/S/HAAS VF2/Posts/Haas TurnMill with Y.cnc",
+				"/S/HAAS VF2/Posts/Haas TurnMill 2 - BACK UP 2.cnc",
+				"/S/HAAS VF2/Posts/Haas TurnMill 2 - BACK UP 1.cnc",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/readme.md",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/external/glfw/examples/gears.c",
+				"/C/prorepo/CMAKE_PRACTICE/VSCProg/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/out/build/external/glfw/Makefile",
+				"/C/prorepo/CMAKE_PRACTICE/VSCProg/testConfig.h.in",
+				"/C/prorepo/CMAKE_PRACTICE/VSCProg/CMakeLists.txt",
+				"/S/HAAS VF2/Posts/Haas ST MILL TURN.cnc",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/out/build/Makefile",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/.gitignore",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/adder/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/out/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/run.bat",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/configure.bat",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/build.bat",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/adder.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/adder.h",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/adder.h",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/test/cpp/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/CMakeLists.txt"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"menu_visible": true,
+			"output.ECC":
+			{
+				"height": 130.0
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 125.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 701.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tem",
+						"template"
+					],
+					[
+						"ma",
+						"main\tmain()"
+					],
+					[
+						"count",
+						"countSubStringMatchRecursive"
+					],
+					[
+						"NUM",
+						"NUM_SPIDERLEGS"
+					],
+					[
+						"c2",
+						"c2Flag"
+					],
+					[
+						"Num",
+						"NUM_PIGLEGS"
+					],
+					[
+						"NU",
+						"NUM_PIGLEGS"
+					],
+					[
+						"updat",
+						"update_handler"
+					],
+					[
+						"grd",
+						"grid_columnconfigure"
+					],
+					[
+						"item",
+						"itemconfig"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/Hiwin Interferometer Test.py",
+					"settings":
+					{
+						"buffer_size": 103,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "# These are some examples of commonly ignored file patterns.\n# You should customize this list as applicable to your project.\n# Learn more about .gitignore:\n#     https://www.atlassian.com/git/tutorials/saving-changes/gitignore\n\n# Node artifact files\nnode_modules/\ndist/\n\n# Compiled Java class files\n*.class\n\n# Compiled Python bytecode\n*.py[cod]\n\n# Log files\n*.log\n\n# Package files\n*.jar\n\n# Maven\ntarget/\ndist/\n\n# JetBrains IDE\n.idea/\n\n# Unit test reports\nTEST*.xml\n\n# Generated by MacOS\n.DS_Store\n\n# Generated by Windows\nThumbs.db\n\n# Applications\n*.app\n*.exe\n*.war\n\n# Large media files\n*.mp4\n*.tiff\n*.avi\n*.flv\n*.mov\n*.wmv\n\n",
+					"file": "/C/hprorepo/bsemt/.gitignore",
+					"file_size": 674,
+					"file_write_time": 133446360651179773,
+					"settings":
+					{
+						"buffer_size": 624,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/z.taylor/Desktop/CurrentToDo.txt",
+					"settings":
+					{
+						"buffer_size": 460,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"right_delete",
+							null,
+							"AQAAAEYBAAAAAAAARgEAAAAAAABuAAAAY3VybCAtLXVzZXIgei50YXlsb3JAaGl3aW4udXM6S2F0ZUdFbmV2YTE2IGh0dHBzOi8vYXBpLmJpdGJ1Y2tldC5vcmcvMS4wL3JlcG9zaXRvcmllcy8gXCAtLWRhdGEgbmFtZT1SRVBPX05BTUU",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABGAQAAAAAAALQBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "\nOD"
+							},
+							"AwAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": " -"
+							},
+							"AgAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": " Learn"
+							},
+							"BgAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAABrAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": " a"
+							},
+							"AgAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHAAAAAAAAAAcAAAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "Angula"
+							},
+							"BgAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAHYAAAAAAAAAdwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHYAAAAAAAAAdgAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAAHYAAAAAAAAAdwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": " for"
+							},
+							"BAAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAHoAAAAAAAAAewAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAHsAAAAAAAAAfAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAewAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							4,
+							"left_delete",
+							null,
+							"BAAAAHsAAAAAAAAAewAAAAAAAAABAAAAIHoAAAAAAAAAegAAAAAAAAABAAAAcnkAAAAAAAAAeQAAAAAAAAABAAAAb3gAAAAAAAAAeAAAAAAAAAABAAAAZg",
+							"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "to"
+							},
+							"AgAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": " make"
+							},
+							"BQAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": " a"
+							},
+							"AgAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": " Widge"
+							},
+							"BgAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAACDAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAACGAAAAAAAAAIcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAIcAAAAAAAAAiAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIcAAAAAAAAAhwAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAAIcAAAAAAAAAiAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": " fo"
+							},
+							"AwAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": " A"
+							},
+							"AgAAAIsAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACNAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							13,
+							"left_delete",
+							null,
+							"DQAAAIwAAAAAAAAAjAAAAAAAAAABAAAAQYsAAAAAAAAAiwAAAAAAAAABAAAAIIoAAAAAAAAAigAAAAAAAAABAAAAb4kAAAAAAAAAiQAAAAAAAAABAAAAZogAAAAAAAAAiAAAAAAAAAABAAAAIIcAAAAAAAAAhwAAAAAAAAABAAAAdIYAAAAAAAAAhgAAAAAAAAABAAAAZYUAAAAAAAAAhQAAAAAAAAABAAAAZ4QAAAAAAAAAhAAAAAAAAAABAAAAZIMAAAAAAAAAgwAAAAAAAAABAAAAaYIAAAAAAAAAggAAAAAAAAABAAAAV4EAAAAAAAAAgQAAAAAAAAABAAAAIIAAAAAAAAAAgAAAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AQAAAIAAAAAAAAAAgQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": " Widge"
+							},
+							"BgAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAACDAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAACGAAAAAAAAAIcAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAIcAAAAAAAAAiAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIcAAAAAAAAAhwAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAAIcAAAAAAAAAiAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": " for"
+							},
+							"BAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": " Abrar"
+							},
+							"BgAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "A"
+							},
+							"AQAAAHQBAAAAAAAAdQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdAEAAAAAAAB0AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHQBAAAAAAAAdAEAAAAAAAABAAAAQQ",
+							"AQAAAAAAAAABAAAAdQEAAAAAAAB1AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": "Widget"
+							},
+							"BgAAAHQBAAAAAAAAdQEAAAAAAAAAAAAAdQEAAAAAAAB2AQAAAAAAAAAAAAB2AQAAAAAAAHcBAAAAAAAAAAAAAHcBAAAAAAAAeAEAAAAAAAAAAAAAeAEAAAAAAAB5AQAAAAAAAAAAAAB5AQAAAAAAAHoBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdAEAAAAAAAB0AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": " ="
+							},
+							"AgAAAHoBAAAAAAAAewEAAAAAAAAAAAAAewEAAAAAAAB8AQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAegEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAHwBAAAAAAAAfQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfAEAAAAAAAB8AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": "dynamically"
+							},
+							"CwAAAH0BAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAB/AQAAAAAAAIABAAAAAAAAAAAAAIABAAAAAAAAgQEAAAAAAAAAAAAAgQEAAAAAAACCAQAAAAAAAAAAAACCAQAAAAAAAIMBAAAAAAAAAAAAAIMBAAAAAAAAhAEAAAAAAAAAAAAAhAEAAAAAAACFAQAAAAAAAAAAAACFAQAAAAAAAIYBAAAAAAAAAAAAAIYBAAAAAAAAhwEAAAAAAAAAAAAAhwEAAAAAAACIAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"insert",
+							{
+								"characters": " rotating"
+							},
+							"CQAAAIgBAAAAAAAAiQEAAAAAAAAAAAAAiQEAAAAAAACKAQAAAAAAAAAAAACKAQAAAAAAAIsBAAAAAAAAAAAAAIsBAAAAAAAAjAEAAAAAAAAAAAAAjAEAAAAAAACNAQAAAAAAAAAAAACNAQAAAAAAAI4BAAAAAAAAAAAAAI4BAAAAAAAAjwEAAAAAAAAAAAAAjwEAAAAAAACQAQAAAAAAAAAAAACQAQAAAAAAAJEBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiAEAAAAAAACIAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": " ve"
+							},
+							"AwAAAJEBAAAAAAAAkgEAAAAAAAAAAAAAkgEAAAAAAACTAQAAAAAAAAAAAACTAQAAAAAAAJQBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkQEAAAAAAACRAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": "cotr"
+							},
+							"BAAAAJQBAAAAAAAAlQEAAAAAAAAAAAAAlQEAAAAAAACWAQAAAAAAAAAAAACWAQAAAAAAAJcBAAAAAAAAAAAAAJcBAAAAAAAAmAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlAEAAAAAAACUAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAJgBAAAAAAAAmQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							4,
+							"left_delete",
+							null,
+							"BAAAAJgBAAAAAAAAmAEAAAAAAAABAAAAIJcBAAAAAAAAlwEAAAAAAAABAAAAcpYBAAAAAAAAlgEAAAAAAAABAAAAdJUBAAAAAAAAlQEAAAAAAAABAAAAbw",
+							"AQAAAAAAAAABAAAAmQEAAAAAAACZAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": "tor"
+							},
+							"AwAAAJUBAAAAAAAAlgEAAAAAAAAAAAAAlgEAAAAAAACXAQAAAAAAAAAAAACXAQAAAAAAAJgBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlQEAAAAAAACVAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"insert",
+							{
+								"characters": " art"
+							},
+							"BAAAAJgBAAAAAAAAmQEAAAAAAAAAAAAAmQEAAAAAAACaAQAAAAAAAAAAAACaAQAAAAAAAJsBAAAAAAAAAAAAAJsBAAAAAAAAnAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"insert",
+							{
+								"characters": " of"
+							},
+							"AwAAAJwBAAAAAAAAnQEAAAAAAAAAAAAAnQEAAAAAAACeAQAAAAAAAAAAAACeAQAAAAAAAJ8BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnAEAAAAAAACcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"insert",
+							{
+								"characters": " stage"
+							},
+							"BgAAAJ8BAAAAAAAAoAEAAAAAAAAAAAAAoAEAAAAAAAChAQAAAAAAAAAAAAChAQAAAAAAAKIBAAAAAAAAAAAAAKIBAAAAAAAAowEAAAAAAAAAAAAAowEAAAAAAACkAQAAAAAAAAAAAACkAQAAAAAAAKUBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnwEAAAAAAACfAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							55,
+							1,
+							"insert",
+							{
+								"characters": " rotatin"
+							},
+							"CAAAAKUBAAAAAAAApgEAAAAAAAAAAAAApgEAAAAAAACnAQAAAAAAAAAAAACnAQAAAAAAAKgBAAAAAAAAAAAAAKgBAAAAAAAAqQEAAAAAAAAAAAAAqQEAAAAAAACqAQAAAAAAAAAAAACqAQAAAAAAAKsBAAAAAAAAAAAAAKsBAAAAAAAArAEAAAAAAAAAAAAArAEAAAAAAACtAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"insert",
+							{
+								"characters": "g"
+							},
+							"AQAAAK0BAAAAAAAArgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArQEAAAAAAACtAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"insert",
+							{
+								"characters": " and"
+							},
+							"BAAAAK4BAAAAAAAArwEAAAAAAAAAAAAArwEAAAAAAACwAQAAAAAAAAAAAACwAQAAAAAAALEBAAAAAAAAAAAAALEBAAAAAAAAsgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							58,
+							1,
+							"insert",
+							{
+								"characters": " adjusting"
+							},
+							"CgAAALIBAAAAAAAAswEAAAAAAAAAAAAAswEAAAAAAAC0AQAAAAAAAAAAAAC0AQAAAAAAALUBAAAAAAAAAAAAALUBAAAAAAAAtgEAAAAAAAAAAAAAtgEAAAAAAAC3AQAAAAAAAAAAAAC3AQAAAAAAALgBAAAAAAAAAAAAALgBAAAAAAAAuQEAAAAAAAAAAAAAuQEAAAAAAAC6AQAAAAAAAAAAAAC6AQAAAAAAALsBAAAAAAAAAAAAALsBAAAAAAAAvAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"insert",
+							{
+								"characters": " based"
+							},
+							"BgAAALwBAAAAAAAAvQEAAAAAAAAAAAAAvQEAAAAAAAC+AQAAAAAAAAAAAAC+AQAAAAAAAL8BAAAAAAAAAAAAAL8BAAAAAAAAwAEAAAAAAAAAAAAAwAEAAAAAAADBAQAAAAAAAAAAAADBAQAAAAAAAMIBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvAEAAAAAAAC8AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							1,
+							"insert",
+							{
+								"characters": " on"
+							},
+							"AwAAAMIBAAAAAAAAwwEAAAAAAAAAAAAAwwEAAAAAAADEAQAAAAAAAAAAAADEAQAAAAAAAMUBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwgEAAAAAAADCAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							61,
+							1,
+							"insert",
+							{
+								"characters": " angle"
+							},
+							"BgAAAMUBAAAAAAAAxgEAAAAAAAAAAAAAxgEAAAAAAADHAQAAAAAAAAAAAADHAQAAAAAAAMgBAAAAAAAAAAAAAMgBAAAAAAAAyQEAAAAAAAAAAAAAyQEAAAAAAADKAQAAAAAAAAAAAADKAQAAAAAAAMsBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxQEAAAAAAADFAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAMsBAAAAAAAAzAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAywEAAAAAAADLAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/hprorepo/AngularTest/my-app/README.md",
+					"settings":
+					{
+						"buffer_size": 1059,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/hprorepo/bsemt/SSTFProg/main.cpp",
+					"settings":
+					{
+						"buffer_size": 180,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							2,
+							"left_delete",
+							null,
+							"AgAAAFgAAAAAAAAAWAAAAAAAAAAEAAAAICAgIFcAAAAAAAAAVwAAAAAAAAABAAAACg",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACSAAAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/hitapi.py",
+					"settings":
+					{
+						"buffer_size": 47941,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Build & Run"
+						]
+					],
+					[
+						"Packages/Rust/Rust.sublime-build",
+						"Build & Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package en",
+						"Package Control: Enable Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"Prefer",
+						"Preferences: Settings"
+					],
+					[
+						"font",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"lsp enabel",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"LSP",
+						"LSP: Goto Symbol In Project"
+					],
+					[
+						"Package Control: INsta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/z.taylor/Documents/PDM EDITS.txt",
+				"/C/prorepo/HIWIN/HADES/build/Win32/CMakeLists.txt",
+				"/C/hprorepo/multi_enc_test/CMakeLists.txt",
+				"/C/hprorepo/multi_enc_test/main.cpp",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/Part.txt",
+				"/C/Users/z.taylor/Documents/Temp.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa3316.9679/KeyenceRobotVisionSetup.txt",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/homing routine.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa29764.31339/README.md",
+				"/C/Program Files (x86)/HIWIN/iA_Studio/HIMC_API.h",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt.user",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/hprorepo/bsemt/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/README.txt",
+				"/C/hprorepo/bsemt/README.md",
+				"/C/hprorepo/intProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/SSTFProg/sstfmainwindow.cpp",
+				"/C/hprorepo/bsemt/.git/COMMIT_EDITMSG",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/intProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/include/Axis.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExampleDlg.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/main.cpp",
+				"/C/hprorepo/SSTFProg/DriveExample/include/mpint.h",
+				"/C/hprorepo/SSTFProg/DriveExample/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/DriveExample/build/Debug/DriveExample.pdb",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/targetver.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/resource.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.cpp",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.cpp",
+				"/C/hprorepo/SSTFProg/Serial/main.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/mpint.h",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.h",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (6).7z",
+				"/C/hprorepo/SSTFProg/SSTFProg/E201Serial.h",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports_names.cpp",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt.user",
+				"/C/hprorepo/SSTFProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (5)/MPI_Examples_for_E1_Series_Servo_Drive/examples/MPI_EncoderDemo/MPI_EncoderDemo/MPI_EncoderDemo.vcxproj.user",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/serial_collection.cpp",
+				"/C/hprorepo/SSTFProg/Serial/drivers/readme.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/something.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.cpp",
+				"/C/Users/z.taylor/Downloads/Serial/Debug/SerialTest.pdb",
+				"/C/Users/z.taylor/Downloads/Serial/SerialTest/ReadMe.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa43736.49081/Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.18853/readme.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.21585/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.h",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.cpp",
+				"/C/prorepo/HIWIN/HADES/main.cpp",
+				"/C/Users/z.taylor/Desktop/encoderTest.cpp",
+				"/C/hprorepo/SSTFProg/test.cpp",
+				"/C/Program Files (x86)/HIWIN/iA Studio 2.0.1/documents/Software Guides/API_examples/cpp/src/api_example.cpp",
+				"/C/prorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/HADES/README.md",
+				"/C/prorepo/HIWIN/devenv_tmplt/main.cpp",
+				"/C/prorepo/HIWIN/devenv_tmplt/README.md",
+				"/C/prorepo/HIWIN/hapitest/include/HIMC_API.h",
+				"/C/prorepo/HIWIN/dev_environment/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/devenv_tmplt/build/Win32/CMakeLists.txt",
+				"/C/prorepo/HIWIN/dev_environment/main.cpp",
+				"/C/prorepo/HIWIN/dev_environment/build/Win32/CMakeLists.txt",
+				"/C/prorepo/HIWIN/hapitest/main.cpp",
+				"/C/prorepo/HIWIN/dev_environment/main - Copy.cpp",
+				"/C/prorepo/HIWIN/dev_environment/build/x64/build",
+				"/C/prorepo/HIWIN/hapitest/CMakeLists.txt",
+				"/C/prorepo/HIWIN/dev_environment/CMakeLists.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa26144.11863/README.rst",
+				"/C/prorepo/HIWIN/hapitest/build/Makefile",
+				"/S/Erik Cleveland/blah/blah.txt",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/main.cpp",
+				"/S/HAAS VF2/Posts/Haas TurnMill 2.cnc",
+				"/S/HAAS VF2/Posts/Generic Haas ST 4X MT_Lathe.cnc",
+				"/S/Zachary Taylor/Haas TurnMill 2 -zEdit1.TXT",
+				"/C/Users/z.taylor/Documents/hours.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/adder/adder.h",
+				"/S/HAAS VF2/Posts/Haas TurnMill with Y.cnc",
+				"/S/HAAS VF2/Posts/Haas TurnMill 2 - BACK UP 2.cnc",
+				"/S/HAAS VF2/Posts/Haas TurnMill 2 - BACK UP 1.cnc",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/readme.md",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/external/glfw/examples/gears.c",
+				"/C/prorepo/CMAKE_PRACTICE/VSCProg/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/out/build/external/glfw/Makefile",
+				"/C/prorepo/CMAKE_PRACTICE/VSCProg/testConfig.h.in",
+				"/C/prorepo/CMAKE_PRACTICE/VSCProg/CMakeLists.txt",
+				"/S/HAAS VF2/Posts/Haas ST MILL TURN.cnc",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/out/build/Makefile",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/.gitignore",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/adder/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/out/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/run.bat",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/configure.bat",
+				"/C/prorepo/CMAKE_PRACTICE/SMProg/build.bat",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/adder.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/adder.h",
+				"/C/prorepo/CMAKE_PRACTICE/LProgTest/cpp/adder.h",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/test/cpp/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/cpp/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/LProg/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SProg/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SProg/src/CMakeLists.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SProg/main.cpp",
+				"/C/prorepo/CMAKE_PRACTICE/SProg/CMakeLists.txt.txt",
+				"/C/prorepo/CMAKE_PRACTICE/SProg/build/Makefile",
+				"/C/prorepo/CMAKE_PRACTICE/hello_world.cpp"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/Hiwin Interferometer Test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 103,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///C:/Users/z.taylor/Desktop/Interferometer/Interferometer%20Test%20v2.1/Hiwin%20Interferometer%20Test.py",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/hprorepo/bsemt/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 624,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///C:/hprorepo/bsemt/.gitignore",
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/z.taylor/Desktop/CurrentToDo.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 460,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										460,
+										460
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///C:/Users/z.taylor/Desktop/CurrentToDo.txt",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/hprorepo/AngularTest/my-app/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1059,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///C:/hprorepo/AngularTest/my-app/README.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/hprorepo/bsemt/SSTFProg/main.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 180,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///C:/hprorepo/bsemt/SSTFProg/main.cpp",
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/hitapi.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 47941,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6590,
+										6590
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///C:/Users/z.taylor/Desktop/Interferometer/Interferometer%20Test%20v2.1/hitapi.py",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.ECC":
+			{
+				"height": 130.0
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 125.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,0,1,-1,-1,-1,-1,776,481,47,1198,4a9a93674eff1f4a89eb29e824bc9c46",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,1315 @@
+{
+	"file_history":
+	[
+		"/C/Users/z.taylor/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-mousemap",
+		"/C/Users/z.taylor/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-1/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-7/part-2/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-2/main.cpp",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/puzzle-8.txt",
+		"/C/Users/z.taylor/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/z.taylor/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/z.taylor/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/z.taylor/AppData/Roaming/Sublime Text/Packages/User/C++.sublime-settings",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-2/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-5/part-2/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/puzzle-6.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-1/main.cpp",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-1/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-2/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-2/main.cpp",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-4/part-2/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-1/main.cpp",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-3/puzzle-3.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-4/part-1/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-3/part-1/main.cpp",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/build/Debug/puzzle-2.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-3/part-1/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/main.cpp",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/puzzle-2.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-1/CMakeLists.txt",
+		"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/main.cpp",
+		"/C/src/AoC/puzzle-2/main.cpp",
+		"/C/src/AoC/puzzle-2/CMakeLists.txt",
+		"/C/src/AoC/puzzle-2/puzzle-2.txt",
+		"/C/src/AoC/puzzle-1/main.cpp",
+		"/C/Program Files (x86)/HIWIN MIKROSYSTEM/iA Studio 2.1.0/documents/Software Guides/HMPL_examples/8_Group_Circular_Motion.txt",
+		"/C/Program Files (x86)/HIWIN MIKROSYSTEM/iA Studio 2.1.0/documents/Software Guides/HMPL_examples/8_Group_Circle2D.txt",
+		"/C/prorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+		"/C/prorepo/HIWIN/HADES/build/Win32/CMakeLists.txt",
+		"/C/src/AoC/puzzle-1/CMakeLists.txt",
+		"/C/src/AoC/puzzle-1/build/Debug/puzzle-1.pdb",
+		"/C/src/main.cpp",
+		"/C/src/testPro/README.md",
+		"/C/src/CMakeLists.txt",
+		"/C/hprorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+		"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/Hiwin Interferometer Test.py",
+		"/C/hprorepo/bsemt/.gitignore",
+		"/C/Users/z.taylor/Desktop/CurrentToDo.txt",
+		"/C/hprorepo/bsemt/SSTFProg/CMakeLists.txt.user",
+		"/C/hprorepo/bank/SSTFProg/sstfmainwindow.ui",
+		"/C/hprorepo/bsemt/SSTFProg/resource.qrc",
+		"/C/hprorepo/bsemt/SSTFProg/resources.qrc",
+		"/C/hprorepo/bank/SSTFProg/CMakeLists.txt",
+		"/C/hprorepo/bsemt/SSTFProg/CMakeLists.txt",
+		"/C/hprorepo/bsemt/SSTFProg/main.cpp",
+		"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/hitapi.py",
+		"/C/test/main.cpp",
+		"/C/hprorepo/AngularTest/my-app/README.md",
+		"/C/hprorepo/bsemt/build-SSTFProg-Desktop_Qt_6_5_1_MSVC2019_64bit-Release/CMakeCache.txt",
+		"/C/Users/z.taylor/Documents/PDM EDITS.txt",
+		"/C/hprorepo/multi_enc_test/CMakeLists.txt",
+		"/C/hprorepo/multi_enc_test/main.cpp",
+		"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/Part.txt",
+		"/C/Users/z.taylor/Documents/Temp.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa3316.9679/KeyenceRobotVisionSetup.txt",
+		"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/homing routine.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa29764.31339/README.md",
+		"/C/Program Files (x86)/HIWIN/iA_Studio/HIMC_API.h",
+		"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt.user",
+		"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+		"/C/hprorepo/bsemt/Installer/config/config.xml",
+		"/C/hprorepo/SSTFProg/README.txt",
+		"/C/hprorepo/bsemt/README.md",
+		"/C/hprorepo/intProg/Installer/config/config.xml",
+		"/C/hprorepo/SSTFProg/SSTFProg/sstfmainwindow.cpp",
+		"/C/hprorepo/bsemt/.git/COMMIT_EDITMSG",
+		"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+		"/C/hprorepo/intProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+		"/C/Users/z.taylor/Documents/temp.cpp",
+		"/C/hprorepo/SSTFProg/DriveExample/include/Axis.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExampleDlg.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+		"/C/hprorepo/SSTFProg/DriveExample/main.cpp",
+		"/C/hprorepo/SSTFProg/DriveExample/include/mpint.h",
+		"/C/hprorepo/SSTFProg/DriveExample/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/DriveExample/build/Debug/DriveExample.pdb",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/targetver.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/resource.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.h",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.cpp",
+		"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.cpp",
+		"/C/hprorepo/SSTFProg/Serial/main.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/include/mpint.h",
+		"/C/hprorepo/SSTFProg/Serial/E201Serial.cpp",
+		"/C/hprorepo/SSTFProg/Serial/E201Serial.h",
+		"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (6).7z",
+		"/C/hprorepo/SSTFProg/SSTFProg/E201Serial.h",
+		"/C/hprorepo/SSTFProg/Functions/get_com_ports_names.cpp",
+		"/C/hprorepo/SSTFProg/Functions/get_com_ports.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt.user",
+		"/C/hprorepo/SSTFProg/Installer/config/config.xml",
+		"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+		"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (5)/MPI_Examples_for_E1_Series_Servo_Drive/examples/MPI_EncoderDemo/MPI_EncoderDemo/MPI_EncoderDemo.vcxproj.user",
+		"/C/prorepo/CMAKE_PRACTICE/MLOProg/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/Serial/CMakeLists.txt",
+		"/C/hprorepo/SSTFProg/Serial/serial_collection.cpp",
+		"/C/hprorepo/SSTFProg/Serial/drivers/readme.txt",
+		"/C/hprorepo/SSTFProg/Serial/drivers/version.txt",
+		"/C/hprorepo/SSTFProg/Serial/drivers/something.cpp",
+		"/C/hprorepo/SSTFProg/Serial/SSTFSerial.h",
+		"/C/hprorepo/SSTFProg/Serial/SSTFSerial.cpp",
+		"/C/Users/z.taylor/Downloads/Serial/Debug/SerialTest.pdb",
+		"/C/Users/z.taylor/Downloads/Serial/SerialTest/ReadMe.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa43736.49081/Serial.cpp",
+		"/C/hprorepo/SSTFProg/Serial/SimpleSerial.cpp",
+		"/C/hprorepo/SSTFProg/Serial/syntax_type.txt",
+		"/C/hprorepo/SSTFProg/Serial/SimpleSerial.h",
+		"/C/hprorepo/SSTFProg/Serial/syntax_type.txt.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.18853/readme.txt",
+		"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.21585/version.txt",
+		"/C/hprorepo/SSTFProg/Serial/SerialPort.h",
+		"/C/hprorepo/SSTFProg/Serial/SerialPort.cpp",
+		"/C/prorepo/HIWIN/HADES/main.cpp",
+		"/C/Users/z.taylor/Desktop/encoderTest.cpp",
+		"/C/hprorepo/SSTFProg/test.cpp",
+		"/C/hprorepo/SSTFProg/SSTFProg/resources.qrc",
+		"/C/hprorepo/SSTFProg/SSTFProg/images.qrc"
+	],
+	"folder_history":
+	[
+		"/C/src/2023-Advent-Of-Code-Solutions"
+	],
+	"last_version": 4169,
+	"last_window_id": 28,
+	"log_indexing": false,
+	"next_update_check": 1702480630,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 677.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			0.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"NUM_",
+						"NUM_GREEN_CUBES"
+					],
+					[
+						"num",
+						"NUM_BLUE_CUBES"
+					],
+					[
+						"Colo",
+						"COLOR_DELIMITER"
+					],
+					[
+						"tem",
+						"template"
+					],
+					[
+						"ma",
+						"main\tmain()"
+					],
+					[
+						"count",
+						"countSubStringMatchRecursive"
+					],
+					[
+						"NUM",
+						"NUM_SPIDERLEGS"
+					],
+					[
+						"c2",
+						"c2Flag"
+					],
+					[
+						"Num",
+						"NUM_PIGLEGS"
+					],
+					[
+						"NU",
+						"NUM_PIGLEGS"
+					],
+					[
+						"updat",
+						"update_handler"
+					],
+					[
+						"grd",
+						"grid_columnconfigure"
+					],
+					[
+						"item",
+						"itemconfig"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Build & Run"
+						]
+					],
+					[
+						"Packages/Rust/Rust.sublime-build",
+						"Build & Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"Temin",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"Package Control: Inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"Packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package en",
+						"Package Control: Enable Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"Prefer",
+						"Preferences: Settings"
+					],
+					[
+						"font",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"lsp enabel",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"LSP",
+						"LSP: Goto Symbol In Project"
+					],
+					[
+						"Package Control: INsta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 154.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-1/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-7/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-2/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/puzzle-8.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-5/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/puzzle-6.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-1/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-2/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-4/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-1/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-3/puzzle-3.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-4/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/build/Debug/puzzle-2.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-3/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/puzzle-2.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/main.cpp",
+				"/C/src/AoC/puzzle-2/main.cpp",
+				"/C/src/AoC/puzzle-2/puzzle-2.txt",
+				"/C/src/AoC/puzzle-2/CMakeLists.txt",
+				"/C/src/AoC/puzzle-1/main.cpp",
+				"/C/Program Files (x86)/HIWIN MIKROSYSTEM/iA Studio 2.1.0/documents/Software Guides/HMPL_examples/8_Group_Circular_Motion.txt",
+				"/C/Program Files (x86)/HIWIN MIKROSYSTEM/iA Studio 2.1.0/documents/Software Guides/HMPL_examples/8_Group_Circle2D.txt",
+				"/C/prorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/HADES/build/Win32/CMakeLists.txt",
+				"/C/src/AoC/puzzle-1/CMakeLists.txt",
+				"/C/src/AoC/puzzle-1/build/Debug/puzzle-1.pdb",
+				"/C/src/main.cpp",
+				"/C/src/testPro/README.md",
+				"/C/src/CMakeLists.txt",
+				"/C/hprorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+				"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/Hiwin Interferometer Test.py",
+				"/C/hprorepo/bsemt/.gitignore",
+				"/C/Users/z.taylor/Desktop/CurrentToDo.txt",
+				"/C/hprorepo/bsemt/SSTFProg/CMakeLists.txt.user",
+				"/C/hprorepo/bank/SSTFProg/sstfmainwindow.ui",
+				"/C/hprorepo/bsemt/SSTFProg/resource.qrc",
+				"/C/hprorepo/bsemt/SSTFProg/resources.qrc",
+				"/C/hprorepo/bank/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/bsemt/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/bsemt/SSTFProg/main.cpp",
+				"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/hitapi.py",
+				"/C/test/main.cpp",
+				"/C/hprorepo/AngularTest/my-app/README.md",
+				"/C/hprorepo/bsemt/build-SSTFProg-Desktop_Qt_6_5_1_MSVC2019_64bit-Release/CMakeCache.txt",
+				"/C/Users/z.taylor/Documents/PDM EDITS.txt",
+				"/C/hprorepo/multi_enc_test/CMakeLists.txt",
+				"/C/hprorepo/multi_enc_test/main.cpp",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/Part.txt",
+				"/C/Users/z.taylor/Documents/Temp.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa3316.9679/KeyenceRobotVisionSetup.txt",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/homing routine.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa29764.31339/README.md",
+				"/C/Program Files (x86)/HIWIN/iA_Studio/HIMC_API.h",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt.user",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/hprorepo/bsemt/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/README.txt",
+				"/C/hprorepo/bsemt/README.md",
+				"/C/hprorepo/intProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/SSTFProg/sstfmainwindow.cpp",
+				"/C/hprorepo/bsemt/.git/COMMIT_EDITMSG",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/intProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/include/Axis.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExampleDlg.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/main.cpp",
+				"/C/hprorepo/SSTFProg/DriveExample/include/mpint.h",
+				"/C/hprorepo/SSTFProg/DriveExample/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/DriveExample/build/Debug/DriveExample.pdb",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/targetver.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/resource.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.cpp",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.cpp",
+				"/C/hprorepo/SSTFProg/Serial/main.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/mpint.h",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.h",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (6).7z",
+				"/C/hprorepo/SSTFProg/SSTFProg/E201Serial.h",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports_names.cpp",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt.user",
+				"/C/hprorepo/SSTFProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (5)/MPI_Examples_for_E1_Series_Servo_Drive/examples/MPI_EncoderDemo/MPI_EncoderDemo/MPI_EncoderDemo.vcxproj.user",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/serial_collection.cpp",
+				"/C/hprorepo/SSTFProg/Serial/drivers/readme.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/something.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.cpp",
+				"/C/Users/z.taylor/Downloads/Serial/Debug/SerialTest.pdb",
+				"/C/Users/z.taylor/Downloads/Serial/SerialTest/ReadMe.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa43736.49081/Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.18853/readme.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.21585/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.h",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.cpp",
+				"/C/prorepo/HIWIN/HADES/main.cpp",
+				"/C/Users/z.taylor/Desktop/encoderTest.cpp",
+				"/C/hprorepo/SSTFProg/test.cpp",
+				"/C/Program Files (x86)/HIWIN/iA Studio 2.0.1/documents/Software Guides/API_examples/cpp/src/api_example.cpp",
+				"/C/prorepo/HIWIN/HADES/README.md",
+				"/C/prorepo/HIWIN/devenv_tmplt/main.cpp",
+				"/C/prorepo/HIWIN/devenv_tmplt/README.md",
+				"/C/prorepo/HIWIN/hapitest/include/HIMC_API.h",
+				"/C/prorepo/HIWIN/dev_environment/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/devenv_tmplt/build/Win32/CMakeLists.txt",
+				"/C/prorepo/HIWIN/dev_environment/main.cpp",
+				"/C/prorepo/HIWIN/dev_environment/build/Win32/CMakeLists.txt"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"red",
+					"linking"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 62.0
+			},
+			"menu_visible": true,
+			"output.ECC":
+			{
+				"height": 130.0
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 125.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 168.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 796.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"NUM_",
+						"NUM_GREEN_CUBES"
+					],
+					[
+						"num",
+						"NUM_BLUE_CUBES"
+					],
+					[
+						"Colo",
+						"COLOR_DELIMITER"
+					],
+					[
+						"tem",
+						"template"
+					],
+					[
+						"ma",
+						"main\tmain()"
+					],
+					[
+						"count",
+						"countSubStringMatchRecursive"
+					],
+					[
+						"NUM",
+						"NUM_SPIDERLEGS"
+					],
+					[
+						"c2",
+						"c2Flag"
+					],
+					[
+						"Num",
+						"NUM_PIGLEGS"
+					],
+					[
+						"NU",
+						"NUM_PIGLEGS"
+					],
+					[
+						"updat",
+						"update_handler"
+					],
+					[
+						"grd",
+						"grid_columnconfigure"
+					],
+					[
+						"item",
+						"itemconfig"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-1/main.cpp",
+					"settings":
+					{
+						"buffer_size": 421,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "8"
+							},
+							"AgAAAMMAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADEAAAAAAAAAAEAAAA2",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADEAAAAAAAAAMMAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							25,
+							1,
+							"reindent",
+							null,
+							"AQAAAO4AAAAAAAAA8gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADuAAAAAAAAAO4AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": "while)"
+							},
+							"BgAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPUAAAAAAAAAAAAAAPUAAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD3AAAAAAAAAAAAAAD3AAAAAAAAAPgAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADyAAAAAAAAAPIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							27,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAPgAAAAAAAAA+gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							28,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAAPgAAAAAAAAA+AAAAAAAAAABAAAAKPgAAAAAAAAA+AAAAAAAAAABAAAAKQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD5AAAAAAAAAPkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							29,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPcAAAAAAAAA9wAAAAAAAAABAAAAKQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": ")"
+							},
+							"AQAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD3AAAAAAAAAPcAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							31,
+							8,
+							"left_delete",
+							null,
+							"CAAAAPcAAAAAAAAA9wAAAAAAAAABAAAAKfYAAAAAAAAA9gAAAAAAAAABAAAAZfUAAAAAAAAA9QAAAAAAAAABAAAAbPQAAAAAAAAA9AAAAAAAAAABAAAAafMAAAAAAAAA8wAAAAAAAAABAAAAaPIAAAAAAAAA8gAAAAAAAAABAAAAd+4AAAAAAAAA7gAAAAAAAAAEAAAAICAgIO0AAAAAAAAA7QAAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAO0AAAAAAAAA7gAAAAAAAAAAAAAA7gAAAAAAAADyAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADtAAAAAAAAAO0AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": "\n/"
+							},
+							"BAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD3AAAAAAAAAAAAAADuAAAAAAAAAO4AAAAAAAAABAAAACAgICDzAAAAAAAAAPQAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADyAAAAAAAAAPIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							39,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPMAAAAAAAAA8wAAAAAAAAABAAAALw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD0AAAAAAAAAPQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "SOME"
+							},
+							"BAAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD1AAAAAAAAAAAAAAD1AAAAAAAAAPYAAAAAAAAAAAAAAPYAAAAAAAAA9wAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADzAAAAAAAAAPMAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							41,
+							1,
+							"insert",
+							{
+								"characters": " MEI"
+							},
+							"BAAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAD5AAAAAAAAAPoAAAAAAAAAAAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD3AAAAAAAAAPcAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							42,
+							3,
+							"left_delete",
+							null,
+							"AwAAAPoAAAAAAAAA+gAAAAAAAAABAAAASfkAAAAAAAAA+QAAAAAAAAABAAAARfgAAAAAAAAA+AAAAAAAAAABAAAATQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7AAAAAAAAAPsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": "MISTAKE"
+							},
+							"BwAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAPsAAAAAAAAAAAAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAD9AAAAAAAAAAAAAAD9AAAAAAAAAP4AAAAAAAAAAAAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": " ="
+							},
+							"AgAAAP8AAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAABAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD/AAAAAAAAAP8AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": " SYAS;"
+							},
+							"BgAAAAEBAAAAAAAAAgEAAAAAAAAAAAAAAgEAAAAAAAADAQAAAAAAAAAAAAADAQAAAAAAAAQBAAAAAAAAAAAAAAQBAAAAAAAABQEAAAAAAAAAAAAABQEAAAAAAAAGAQAAAAAAAAAAAAAGAQAAAAAAAAcBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAQAAAAAAAAEBAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Rust/Rust.sublime-build",
+							""
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Rust/Rust.sublime-build",
+							"Build & Run"
+						]
+					],
+					[
+						"Packages/Rust/Rust.sublime-build",
+						"Build & Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"Temin",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"Package Control: Inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"Packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package en",
+						"Package Control: Enable Package"
+					],
+					[
+						"PACKAGE",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"Prefer",
+						"Preferences: Settings"
+					],
+					[
+						"font",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"lsp enabel",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"LSP",
+						"LSP: Goto Symbol In Project"
+					],
+					[
+						"Package Control: INsta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 154.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/src/2023-Advent-Of-Code-Solutions",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-7",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-7/part-2"
+			],
+			"file_history":
+			[
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-7/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-2/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/puzzle-8.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-5/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/puzzle-6.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-1/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-6/part-2/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-4/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-1/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-3/puzzle-3.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-4/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/build/Debug/puzzle-2.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-3/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-2/main.cpp",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/puzzle-2.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/part-1/CMakeLists.txt",
+				"/C/src/2023-Advent-Of-Code-Solutions/puzzle-2/main.cpp",
+				"/C/src/AoC/puzzle-2/main.cpp",
+				"/C/src/AoC/puzzle-2/puzzle-2.txt",
+				"/C/src/AoC/puzzle-2/CMakeLists.txt",
+				"/C/src/AoC/puzzle-1/main.cpp",
+				"/C/Program Files (x86)/HIWIN MIKROSYSTEM/iA Studio 2.1.0/documents/Software Guides/HMPL_examples/8_Group_Circular_Motion.txt",
+				"/C/Program Files (x86)/HIWIN MIKROSYSTEM/iA Studio 2.1.0/documents/Software Guides/HMPL_examples/8_Group_Circle2D.txt",
+				"/C/prorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/HADES/build/Win32/CMakeLists.txt",
+				"/C/src/AoC/puzzle-1/CMakeLists.txt",
+				"/C/src/AoC/puzzle-1/build/Debug/puzzle-1.pdb",
+				"/C/src/main.cpp",
+				"/C/src/testPro/README.md",
+				"/C/src/CMakeLists.txt",
+				"/C/hprorepo/HIWIN/HADES/build/x64/CMakeLists.txt",
+				"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/Hiwin Interferometer Test.py",
+				"/C/hprorepo/bsemt/.gitignore",
+				"/C/Users/z.taylor/Desktop/CurrentToDo.txt",
+				"/C/hprorepo/bsemt/SSTFProg/CMakeLists.txt.user",
+				"/C/hprorepo/bank/SSTFProg/sstfmainwindow.ui",
+				"/C/hprorepo/bsemt/SSTFProg/resource.qrc",
+				"/C/hprorepo/bsemt/SSTFProg/resources.qrc",
+				"/C/hprorepo/bank/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/bsemt/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/bsemt/SSTFProg/main.cpp",
+				"/C/Users/z.taylor/Desktop/Interferometer/Interferometer Test v2.1/hitapi.py",
+				"/C/test/main.cpp",
+				"/C/hprorepo/AngularTest/my-app/README.md",
+				"/C/hprorepo/bsemt/build-SSTFProg-Desktop_Qt_6_5_1_MSVC2019_64bit-Release/CMakeCache.txt",
+				"/C/Users/z.taylor/Documents/PDM EDITS.txt",
+				"/C/hprorepo/multi_enc_test/CMakeLists.txt",
+				"/C/hprorepo/multi_enc_test/main.cpp",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/Part.txt",
+				"/C/Users/z.taylor/Documents/Temp.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa3316.9679/KeyenceRobotVisionSetup.txt",
+				"/C/Users/z.taylor/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/XZ0U78PC/homing routine.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa29764.31339/README.md",
+				"/C/Program Files (x86)/HIWIN/iA_Studio/HIMC_API.h",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt.user",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/hprorepo/bsemt/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/README.txt",
+				"/C/hprorepo/bsemt/README.md",
+				"/C/hprorepo/intProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/SSTFProg/sstfmainwindow.cpp",
+				"/C/hprorepo/bsemt/.git/COMMIT_EDITMSG",
+				"/C/hprorepo/bsemt/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/intProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/include/Axis.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExampleDlg.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/package.xml",
+				"/C/hprorepo/SSTFProg/DriveExample/main.cpp",
+				"/C/hprorepo/SSTFProg/DriveExample/include/mpint.h",
+				"/C/hprorepo/SSTFProg/DriveExample/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/DriveExample/build/Debug/DriveExample.pdb",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/targetver.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/resource.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.h",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/stdafx.cpp",
+				"/C/Users/z.taylor/Downloads/API_Library_for_Servo_Drives_with_mega-ulink (2)/API_Library_for_Servo_Drives_with_mega-ulink/examples/VC++/AxisExample/AxisExample/AxisExample.cpp",
+				"/C/hprorepo/SSTFProg/Serial/main.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/mpint.h",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/E201Serial.h",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (6).7z",
+				"/C/hprorepo/SSTFProg/SSTFProg/E201Serial.h",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports_names.cpp",
+				"/C/hprorepo/SSTFProg/Functions/get_com_ports.cpp",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/SSTFProg/include/CMakeLists.txt.user",
+				"/C/hprorepo/SSTFProg/Installer/config/config.xml",
+				"/C/hprorepo/SSTFProg/Installer/packages/com.hiwincorporation.bsemtinstaller/meta/license.txt",
+				"/C/Users/z.taylor/Downloads/MPI_Examples_for_Servo_Drive (5)/MPI_Examples_for_E1_Series_Servo_Drive/examples/MPI_EncoderDemo/MPI_EncoderDemo/MPI_EncoderDemo.vcxproj.user",
+				"/C/prorepo/CMAKE_PRACTICE/MLOProg/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/CMakeLists.txt",
+				"/C/hprorepo/SSTFProg/Serial/serial_collection.cpp",
+				"/C/hprorepo/SSTFProg/Serial/drivers/readme.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/drivers/something.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/SSTFSerial.cpp",
+				"/C/Users/z.taylor/Downloads/Serial/Debug/SerialTest.pdb",
+				"/C/Users/z.taylor/Downloads/Serial/SerialTest/ReadMe.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa43736.49081/Serial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.cpp",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt",
+				"/C/hprorepo/SSTFProg/Serial/SimpleSerial.h",
+				"/C/hprorepo/SSTFProg/Serial/syntax_type.txt.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.18853/readme.txt",
+				"/C/Users/z.taylor/AppData/Local/Temp/Rar$DIa18576.21585/version.txt",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.h",
+				"/C/hprorepo/SSTFProg/Serial/SerialPort.cpp",
+				"/C/prorepo/HIWIN/HADES/main.cpp",
+				"/C/Users/z.taylor/Desktop/encoderTest.cpp",
+				"/C/hprorepo/SSTFProg/test.cpp",
+				"/C/Program Files (x86)/HIWIN/iA Studio 2.0.1/documents/Software Guides/API_examples/cpp/src/api_example.cpp",
+				"/C/prorepo/HIWIN/HADES/README.md",
+				"/C/prorepo/HIWIN/devenv_tmplt/main.cpp",
+				"/C/prorepo/HIWIN/devenv_tmplt/README.md",
+				"/C/prorepo/HIWIN/hapitest/include/HIMC_API.h",
+				"/C/prorepo/HIWIN/dev_environment/build/x64/CMakeLists.txt",
+				"/C/prorepo/HIWIN/devenv_tmplt/build/Win32/CMakeLists.txt",
+				"/C/prorepo/HIWIN/dev_environment/main.cpp",
+				"/C/prorepo/HIWIN/dev_environment/build/Win32/CMakeLists.txt",
+				"/C/prorepo/HIWIN/hapitest/main.cpp"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"red",
+					"linking"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\src\\2023-Advent-Of-Code-Solutions"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/src/2023-Advent-Of-Code-Solutions/puzzle-8/part-1/main.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 421,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										120,
+										120
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 62.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.74040066778,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.ECC":
+			{
+				"height": 130.0
+			},
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 125.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,735,32,8,828,bdc20aa2eb770544bb8d53e1b2ce9540",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 168.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 23,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
